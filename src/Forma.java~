@@ -1,0 +1,8 @@
+public class Forma {
+
+    public Cor desenhar(String posicao, int tamanho) {
+
+
+    }
+
+}
